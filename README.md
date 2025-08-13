@@ -1,13 +1,13 @@
 # MySQLProject
-Target of this project
+**Target of this project**
 
-  The goal is to store all my SQL skills in a single repository.
+    The goal is to store all my SQL skills in a single repository.
   
-Description 
+**Description **
 
-  This is my SQL project
+    This is my SQL project
   
-Task
+**Task**
 
   Level 1
   
@@ -15,15 +15,15 @@ Task
     Take Sales by Country data
     Take Top-Spending Customers data
     
-Database Resource
+**Database Resource**
 
   Dummy Database (Chinook) Took it from 
   
     https://github.com/lerocha/chinook-database/blob/master/LICENSE.md
     
-Workflow
+**Workflow**
 
-  I use HeidiSQL to modify my database.
-  All tasks finished in .sql files   
+    I use HeidiSQL to modify my database.
+    All tasks finished in .sql files   
 
 

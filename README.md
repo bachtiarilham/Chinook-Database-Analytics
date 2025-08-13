@@ -24,6 +24,7 @@
 **Workflow**
 
     I use HeidiSQL to modify my database.
-    All tasks finished in .sql files   
+    All tasks finished in .sql files and stored in query folder
+    
 
 

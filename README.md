@@ -3,13 +3,13 @@
 
     The goal is to store all my SQL skills in a single repository.
   
-**Description **
+**Description**
 
     This is my SQL project
   
 **Task**
 
-  Level 1
+    Level 1
   
     Take Annual Revenue data
     Take Sales by Country data

@@ -9,11 +9,10 @@
   
 **Task**
 
-    Level 1
-  
-    Take Annual Revenue data
-    Take Sales by Country data
-    Take Top-Spending Customers data
+    There are level 1 and level 2
+    The difference is, in level 1 mostly no need to use subquery.
+    The task is diverse coverage of concept, go check it out.
+    The task is the file name of the query.sql
     
 **Database Resource**
 

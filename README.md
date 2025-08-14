@@ -21,7 +21,9 @@
     https://github.com/lerocha/chinook-database/blob/master/LICENSE.md
 
 Data Model
-    
+
+![image alt] (https://github.com/bachtiarilham/Chinook-Database-Analytics/blob/main/Capture.PNG?raw=true)    
+
 There is recursive relation one in employee table
     
 **Workflow**

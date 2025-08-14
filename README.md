@@ -20,11 +20,11 @@
   
     https://github.com/lerocha/chinook-database/blob/master/LICENSE.md
 
-    Data Model
+Data Model
     
-    <img width="748" height="507" alt="image" src="https://github.com/user-attachments/assets/77858411-87f6-4ee2-aa04-63a80b82a6cf" />
+![Logo Proyek](Capture.png)
     
-    There is recursive relation one in employee table
+There is recursive relation one in employee table
     
 **Workflow**
 

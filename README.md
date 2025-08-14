@@ -9,7 +9,7 @@
   
 **Task**
 
-    There are level 1 and level 2 (Total 40 Task)
+    There are level 1 and level 2
     The difference is, in level 1 mostly no need to use subquery.
     The task is diverse coverage of concept, go check it out.
     The task is the file name of the query.sql

@@ -22,8 +22,6 @@
 
 Data Model
     
-![Logo Proyek](Capture.png)
-    
 There is recursive relation one in employee table
     
 **Workflow**
